@@ -1,2 +1,2 @@
 # hello-world
-Practice repository
+Learning how to use Github.
